@@ -1,0 +1,1 @@
+rootProject.name = "Elemental_Dagger_Plugin"
